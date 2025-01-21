@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79824932675",
+    "project_id": "at-club-444411",
+    "storage_bucket": "at-club-444411.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79824932675:android:30d4befcd8cbaff6b6e9f6",
+        "android_client_info": {
+          "package_name": "world.at.club.messengerandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4u6dQWwM87WEM-q24N3-QLshdPRFC918"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
